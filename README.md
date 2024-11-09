@@ -4,7 +4,7 @@
 - 🚀 I’m on an exciting journey into Data Engineering
 - 📚 Currently learning: Python, Data Pipelines, Data Warehouse, SQL, Docker, Airflow
 - 💼 I’m actively seeking thrilling opportunities in the Data Engineering realm!
-- 📫 Feel free to connect with me on [LinkedIn!](www.linkedin.com/in/rfajaraditya)
+- 📫 Feel free to connect with me on [LinkedIn!]([www.linkedin.com/in/rfajaraditya](https://www.linkedin.com/in/rfajaraditya/)
 
 
 <!---
