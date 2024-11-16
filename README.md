@@ -1,4 +1,4 @@
-## Hi there, i'm Rizky! 👋
+## Hi there, name's Rizky! 👋
 
 ### Let me share a quick snapshot about me!
 - 🚀 I’m on an exciting journey into Data Engineering
