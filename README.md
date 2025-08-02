@@ -3,7 +3,6 @@
 ### Let me share a quick snapshot about me!
 - 🚀 I’m on an exciting journey into Data Engineering
 - 📚 Currently learning: Python, Data Pipelines, Data Warehouse, SQL, Docker, Airflow
-- 💼 I’m actively seeking thrilling opportunities in the Data Realm!
 - 📫 Feel free to connect with me on [LinkedIn!](https://www.linkedin.com/in/rfajaraditya/)
 
 
